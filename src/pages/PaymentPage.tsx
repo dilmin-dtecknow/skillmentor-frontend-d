@@ -125,3 +125,5 @@ export default function PaymentPage() {
     </div>
   );
 }
+
+// Note: The actual file upload to the server is not implemented here, as it would require backend support for handling file uploads. The current implementation simulates the payment confirmation process by enrolling the user in the session upon form submission.
